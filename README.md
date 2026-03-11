@@ -71,7 +71,7 @@ I care about performance, player/user experience, and writing software that hold
 
 ## 🚀 Featured Project
 
-### 🎯 [SAK3R Coaching Platform](https://saker-coaching.vercel.app/)
+### 🎯 [SAK3R Coaching Platform](https://github.com/SAK3Rttv/SAK3R-Coaching-Platform)
 
 > Full-stack coaching platform for competitive gaming — role-based access, payments, real-time notifications.
 
